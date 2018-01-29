@@ -20,10 +20,11 @@ Un site statique, [comme celui-ci](http://motherfuckingwebsite.com/), est écrit
 Un site dynamique, lui, a comme principal objectif d'être intéractif, il contient donc des scripts et permet à ses différentes pages de s'échanger des informations.
 
 ### -Que signifie l'acronyme M.V.C. ?
-Lorem Ipsum
+Model, View, Controller:
+Le 'model' manipule des données de la database, Le 'view' affiche en HTML/CSS ces mêmes données accompagnées de formatage, et le 'controller', comme son nom l'indique, controle toutes les actions de notre site, que ce soit l'appel au view pour afficher quelque chose, ou l'appel au model pour recuperer des valeurs dans la database.
 
 ### -Les routes, comment ça marche :car: ?
-Lorem Ipsum
+Les routes sont les liens entre les url et les appels aux actions de controllers.
 
 ### -Les bases de données ou 'databases' :cloud:
 Lorem Ipsum
