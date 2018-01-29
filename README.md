@@ -15,7 +15,8 @@
  + _CRUD_
 ------
 ### -La différence entre un site statique :zzz: et un site dynamique :running: ?
-Lorem Ipsum
+  Un site statique, comme celui-ci, est écrit exclusivement en HTML/CSS, et pourrait en théorie être imprimé et lu sur papier sans perdre de valeur (on imprime chaque page du site et on perd seulement les liens).
+  Un site dynamique lui, a comme principal objectif d'être intéractif, il contient donc des scripts et permet à ses différentes pages de s'échanger des informations.
 
 ### -Que signifie l'acronyme M.V.C. ?
 Lorem Ipsum
