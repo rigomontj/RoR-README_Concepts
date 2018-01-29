@@ -39,4 +39,4 @@ Lorem Ipsum
 Lorem Ipsum
 
 ------
-###Merci d'avoir lu !
+### Merci de m'avoir lu !
