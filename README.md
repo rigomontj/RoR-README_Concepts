@@ -5,11 +5,11 @@
 > -- *Félix Gaudé*
 
 ## LES CONCEPTS:
- **-** _Site statique / dynamique_
- **-** _MVC_
- **-** _Routes_
- **-** _Databases_
- **-** _GET / POST_
- **-** _Migration_
- **-** _Relations entre modèles des BDD_
- **-** _CRUD
+ +  _Site statique / dynamique_
+ + _MVC_
+ + _Routes_
+ + _Databases_
+ + _GET / POST_
+ + _Migration_
+ + _Relations entre modèles des BDD_
+ + _CRUD_
