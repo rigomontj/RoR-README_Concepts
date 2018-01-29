@@ -14,7 +14,7 @@
  + _Relations entre modèles des BDD_
  + _CRUD_
 ------
-### -La différence entre un site statique :fallen-leaf: et un site dynamique :leaves: ?
+### -La différence entre un site statique :fallen_leaf: et un site dynamique :running: ?
 Lorem Ipsum
 
 ### -Que signifie l'acronyme M.V.C. ?
