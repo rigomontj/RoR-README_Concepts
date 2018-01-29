@@ -17,7 +17,7 @@
 ### -La différence entre un site statique et un site dynamique ?
 Lorem Ipsum
 
-### -Qu'est-ce que signifie l'acronyme M.V.C. ?
+### -Que signifie l'acronyme M.V.C. ?
 Lorem Ipsum
 
 ### -Les routes, comment ça marche ?
@@ -32,7 +32,7 @@ Lorem Ipsum
 ### -La migration
 Lorem Ipsum
 
-### -Les modèles et leurs relations
+### -Les modèles et leurs relations dans la base de données
 Lorem Ipsum
 
 ### -C.R.U.D.
