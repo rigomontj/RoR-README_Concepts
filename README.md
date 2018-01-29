@@ -14,28 +14,29 @@
  + _Relations entre modèles des BDD_
  + _CRUD_
 ------
-### La différence entre un site statique et un site dynamique ?
+### -La différence entre un site statique et un site dynamique ?
 Lorem Ipsum
 
-### Qu'est-ce que signifie l'acronyme M.V.C. ?
+### -Qu'est-ce que signifie l'acronyme M.V.C. ?
 Lorem Ipsum
 
-### Les routes, comment ça marche ?
+### -Les routes, comment ça marche ?
 Lorem Ipsum
 
-### Les bases de données ou 'databases'
+### -Les bases de données ou 'databases'
 Lorem Ipsum
 
-### GET & POST
+### -GET & POST
 Lorem Ipsum
 
-### La migration
+### -La migration
 Lorem Ipsum
 
-### Les modèles et leurs relations
+### -Les modèles et leurs relations
 Lorem Ipsum
 
-### C.R.U.D.
+### -C.R.U.D.
 Lorem Ipsum
 
-Merci d'avoir lu !
+------
+###Merci d'avoir lu !
