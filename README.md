@@ -29,7 +29,7 @@ Lorem Ipsum
 ### -GET & POST :email:
 Lorem Ipsum
 
-### -La migration :bird:
+### -La migration :wind:
 Lorem Ipsum
 
 ### -Les modèles et leurs relations dans la base de données :blue_book:
