@@ -14,29 +14,29 @@
  + _Relations entre modèles des BDD_
  + _CRUD_
 ------
-### -La différence entre un site statique :fallen_leaf: et un site dynamique :running: ?
+### -La différence entre un site statique :zzz: et un site dynamique :running: ?
 Lorem Ipsum
 
 ### -Que signifie l'acronyme M.V.C. ?
 Lorem Ipsum
 
-### -Les routes, comment ça marche ?
+### -Les routes, comment ça marche :car: ?
 Lorem Ipsum
 
-### -Les bases de données ou 'databases'
+### -Les bases de données ou 'databases' :cloud:
 Lorem Ipsum
 
-### -GET & POST
+### -GET & POST :email:
 Lorem Ipsum
 
-### -La migration
+### -La migration :bird:
 Lorem Ipsum
 
-### -Les modèles et leurs relations dans la base de données
+### -Les modèles et leurs relations dans la base de données :blue_book:
 Lorem Ipsum
 
-### -C.R.U.D.
+### -C.R.U.D. 
 Lorem Ipsum
 
 ------
-### Merci de m'avoir lu !
+### Merci de m'avoir lu ! :cat:
