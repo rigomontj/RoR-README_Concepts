@@ -1,5 +1,15 @@
 ![GitHub Logo](logo/logoconcepts.png)
-======
-> "Poser par écrit des concepts aide beaucoup à leur compréhension. Tu vas devoir donc créer un repo Githup avec un **README** qui explique tous ces concepts, en **vulgarisant un maximum.**"
+----------
+> "Tu vas devoir donc *créer un repo GitHub* avec un README qui explique tous ces concepts, en **_vulgarisant un maximum._**"
 >
-> -- Félix Gaudé
+> -- *Félix Gaudé*
+
+## LES CONCEPTS:
+ **-** _Site statique / dynamique_
+ **-** _MVC_
+ **-** _Routes_
+ **-** _Databases_
+ **-** _GET / POST_
+ **-** _Migration_
+ **-** _Relations entre modèles des BDD_
+ **-** _CRUD
